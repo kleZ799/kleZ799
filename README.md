@@ -1,30 +1,29 @@
-## Hi, I'm Parth Bhadana
+## hey, i'm parth
 
-### ⭐ Featured: [ClipMint](https://github.com/kleZ799/clipmint)
+### [ClipMint](https://github.com/kleZ799/clipmint)
 
 <a href="https://github.com/kleZ799/clipmint"><img src="https://raw.githubusercontent.com/kleZ799/clipmint/main/assets/social-preview.png" alt="ClipMint: long videos in, vertical Shorts out" width="640"></a>
 
-A free, open-source AI clip generator that turns podcasts, vlogs, tutorials and
-streams into captioned YouTube Shorts, Reels and TikToks on your own PC. Built
-and shipped solo: 38 releases for Windows, macOS and Linux since August 2026.
+long videos in, shorts out. podcasts, vlogs, tutorials, streams. runs on your own pc,
+free, no watermark. built it solo, shipped it 38 times since august.
 
-- **AI pipeline**: local Whisper transcription, LLM ranking with a Gemini → Groq → OpenAI fallback ladder, a vision-model check on the best moments
-- **Computer vision**: finds a webcam overlay by what doesn't move across 20 frames; follows whoever is talking (86–96% vs 10–73% for "biggest face")
-- **Learns from results**: reads each Short's views back from YouTube and tunes its ranking only when a permutation test says the pattern is real
-- **Ships like a product**: single-file installers built by CI, a self-updater with SHA-256 checks, OAuth + resumable YouTube uploads
+- whisper transcribes, an llm picks the moments, a vision model double-checks them
+- finds your webcam by the one thing a game can't fake: it doesn't move
+- follows whoever's talking. 86–96% of the time, vs 10–73% for "just crop the biggest face"
+- reads your views back and only changes its mind when the stats actually say so
+- one-file installers, updates itself, posts straight to youtube
 
-[Engineering case study](https://klez799.github.io/clipmint/case-study.html) ·
-[Website](https://klez799.github.io/clipmint/) ·
-[How it compares](https://klez799.github.io/clipmint/compare.html)
+[how it's built](https://klez799.github.io/clipmint/case-study.html) ·
+[site](https://klez799.github.io/clipmint/) ·
+[vs opus clip](https://klez799.github.io/clipmint/compare.html)
 
-### Tools I use
+### stuff i use
 
-Python · FastAPI · OpenCV · ffmpeg · faster-whisper · LLM APIs (Gemini, Groq, OpenAI) ·
-JavaScript · GitHub Actions · PyInstaller
+python · fastapi · opencv · ffmpeg · whisper · llms · javascript · github actions
 
-### Find me
+### around
 
-[LinkedIn](https://www.linkedin.com/in/parth-bhadana-530014202/) ·
-[YouTube](https://www.youtube.com/@ParthBhadana799) ·
-[Discord](https://discord.gg/jnMrGbBz3m) ·
-[parthbhadana57@gmail.com](mailto:parthbhadana57@gmail.com)
+[linkedin](https://www.linkedin.com/in/parth-bhadana-530014202/) ·
+[youtube](https://www.youtube.com/@ParthBhadana799) ·
+[discord](https://discord.gg/jnMrGbBz3m) ·
+[email](mailto:parthbhadana57@gmail.com)
