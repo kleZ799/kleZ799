@@ -1,6 +1,10 @@
 ## hey, i'm parth
 
-### [ClipMint](https://github.com/kleZ799/clipmint)
+i like building stuff that does the boring part for you. lately that's been
+video: teaching a pc to sit through hours of footage so nobody else has to.
+mostly python, a bit of computer vision, way too much ffmpeg.
+
+### currently building → [ClipMint](https://github.com/kleZ799/clipmint)
 
 <a href="https://github.com/kleZ799/clipmint"><img src="https://raw.githubusercontent.com/kleZ799/clipmint/main/assets/social-preview.png" alt="ClipMint: long videos in, vertical Shorts out" width="640"></a>
 
