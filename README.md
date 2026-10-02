@@ -1,9 +1,5 @@
 ## Hi, I'm Parth Bhadana
 
-I build software that ships to real users: desktop apps, AI pipelines and the
-video tooling in between. Currently a student at AKTU, India, and open to
-software engineering roles and collaborations.
-
 ### ⭐ Featured: [ClipMint](https://github.com/kleZ799/clipmint)
 
 <a href="https://github.com/kleZ799/clipmint"><img src="https://raw.githubusercontent.com/kleZ799/clipmint/main/assets/social-preview.png" alt="ClipMint: long videos in, vertical Shorts out" width="640"></a>
